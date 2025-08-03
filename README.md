@@ -1,6 +1,6 @@
 # Clone da página do Spotify
 
-Link do projeto: 
+Link do projeto: https://carlavloureiro.github.io/projeto-spotify/
 
 Este projeto foi desenvolvido com o objetivo de recriar a página inicial do Spotify, servindo como referência para a criação de uma versão com identidade visual própria. Utilizei HTML e CSS para estruturar e estilizar o layout, incorporando elementos de design autorais. Ao longo do desenvolvimento, explorei recursos como Bootstrap e Flexbox para garantir responsividade e organização, além de aplicar HTML semântico para estruturar o conteúdo de forma acessível e coerente.
 
